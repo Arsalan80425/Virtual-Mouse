@@ -16,11 +16,7 @@ This project uses **OpenCV** and **MediaPipe** to detect your hand in real-time 
 
 ## 🎥 Demo
 
-*(Add a GIF or screenshot here)*\
-Example:
-
-```bash
-![🎥 Watch Demo Video](https://drive.google.com/file/d/1Q5CB4CL-5f18_LTcrr3GWxsyOi_2F9Uk/view?usp=sharing)
+[![🎥 Watch Demo Video](https://img.shields.io/badge/Watch-Demo-red?logo=google-drive)](https://drive.google.com/file/d/1Q5CB4CL-5f18_LTcrr3GWxsyOi_2F9Uk/view?usp=sharing)
 ```
 
 ---
