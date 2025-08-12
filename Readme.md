@@ -20,7 +20,7 @@ This project uses **OpenCV** and **MediaPipe** to detect your hand in real-time 
 Example:
 
 ```bash
-![🎥 Watch Demo Video]([demo.gif](https://drive.google.com/file/d/1Q5CB4CL-5f18_LTcrr3GWxsyOi_2F9Uk/view?usp=sharing))
+![🎥 Watch Demo Video](https://drive.google.com/file/d/1Q5CB4CL-5f18_LTcrr3GWxsyOi_2F9Uk/view?usp=sharing)
 ```
 
 ---
