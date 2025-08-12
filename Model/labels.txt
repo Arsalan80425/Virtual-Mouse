@@ -1,0 +1,4 @@
+0 Move
+1 RightClick
+2 LeftClick
+3 MultipleClicks
