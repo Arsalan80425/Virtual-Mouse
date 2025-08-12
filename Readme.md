@@ -20,7 +20,7 @@ This project uses **OpenCV** and **MediaPipe** to detect your hand in real-time 
 Example:
 
 ```bash
-![Demo GIF](demo.gif)
+![🎥 Watch Demo Video]([demo.gif](https://drive.google.com/file/d/1Q5CB4CL-5f18_LTcrr3GWxsyOi_2F9Uk/view?usp=sharing))
 ```
 
 ---
@@ -30,11 +30,14 @@ Example:
 ```
 VirtualMouse/
 │
-├── final.py               # Main program
-├── HandTrackingModule.py  # Hand detection helper
-├── requirements.txt       # Python package dependencies
 ├── .gitignore              # Git ignore rules
-└── README.md              # This file
+├── Demo.p4               # Demo Video
+├── HandTrackingModule.py  # Hand detection helper
+├── README.md              # This file
+├── requirements.txt       # Python package dependencies
+├── VirtualMouse2.py      # 2nd program if Main doesn't work
+├── VirtualMouseMain.py      # Main program
+└── requirements.txt       # Python package dependencies
 ```
 
 ---
