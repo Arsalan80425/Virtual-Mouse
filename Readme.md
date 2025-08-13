@@ -52,7 +52,7 @@ VirtualMouse/
 
 ```bash
 git clone https://github.com/Arsalan80425/Virtual-Mouse.git
-cd Virtua-lMouse
+cd Virtual-Mouse
 ```
 
 2. **Create a virtual environment**
